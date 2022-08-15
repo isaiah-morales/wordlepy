@@ -1,0 +1,35 @@
+===================================================================
+===================================================================
+                   _                    _             
+       __ __ _____| |__ ___ _ __  ___  | |_ ___       
+       \ V  V / -_| / _/ _ | '  \/ -_) |  _/ _ \_ _ _ 
+        \_/\_/\___|_\__\___|_|_|_\___|  \__\___(_(_(_)
+
+888       888  .d88888b.  8888888b.  8888888b.  888      8888888888
+888   o   888 d88P" "Y88b 888   Y88b 888  "Y88b 888      888
+888  d8b  888 888     888 888    888 888    888 888      888
+888 d888b 888 888     888 888   d88P 888    888 888      8888888
+888d88888b888 888     888 8888888P"  888    888 888      888
+88888P Y88888 888     888 888 T88b   888    888 888      888
+8888P   Y8888 Y88b. .d88P 888  T88b  888  .d88P 888      888
+888P     Y888  "Y88888P"  888   T88b 8888888P"  88888888 8888888888
+
+===================================================================
+===================================================================
+
+Guess the word in 6 tries or less!
+
+Letters in GREEN are correct!
+Letters in YELLOW are in the final word, but not in the correct
+spot.
+Letters with a MAGENTA fill are letters with a duplicate in the
+final word. There are more than one!
+
+Need help? Guess an asterisk (*) to see all the letters you've
+already used.
+
+Wanna quit? Guess guess a hashtag (#) to end the game but still
+find out the word.
+
+Good Luck!
+___________________________________________________________________
